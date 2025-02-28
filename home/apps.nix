@@ -8,8 +8,8 @@
   home.packages = with pkgs; [
     discord
     # discord-ptb
-    gnome.totem # ビデオプレーヤー
-    gnome.evince # PDFビューアー
+    # gnome.totem # ビデオプレーヤー
+    # gnome.evince # PDFビューアー
     # parsec-bin # 超速いリモートデスクトップクライアント
     # remmina # VNCクライアント
     slack

@@ -6,7 +6,7 @@
 {pkgs, ...}: {
   home.packages = with pkgs; [
     arduino
-    arduino-cli
+    # arduino-cli
     # arduino-ide
 
     platformio

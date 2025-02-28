@@ -12,7 +12,10 @@
     ./home/browser.nix
 
     ./home/vscode.nix
-    ./home/arduino.nix
+    # ./home/arduino.nix
+
+    # ./home/obs-studio.nix
+    # ./home/freecad.nix
   ];
 
   home = rec { # recでAttribute Set内で他の値を参照できるようにする
